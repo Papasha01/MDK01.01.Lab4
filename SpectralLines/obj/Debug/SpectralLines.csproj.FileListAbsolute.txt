@@ -1,0 +1,10 @@
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.csprojAssemblyReference.cache
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.Form1.resources
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.Properties.Resources.resources
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.csproj.GenerateResource.cache
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.csproj.CoreCompileInputs.cache
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\bin\Debug\SpectralLines.exe.config
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\bin\Debug\SpectralLines.exe
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\bin\Debug\SpectralLines.pdb
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.exe
+C:\Users\SSS\source\repos\SpectralLines\SpectralLines\obj\Debug\SpectralLines.pdb
